@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-03-10T14:25:54.000Z</updated>
+  <updated>2017-03-10T14:43:56.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -16,49 +16,17 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>“随笔</title>
-    <link href="http://yoursite.com/2017/03/10/%E2%80%9C%E9%9A%8F%E7%AC%94/"/>
-    <id>http://yoursite.com/2017/03/10/“随笔/</id>
-    <published>2017-03-10T14:24:23.000Z</published>
-    <updated>2017-03-10T14:25:54.000Z</updated>
+    <title>彩虹</title>
+    <link href="http://yoursite.com/2017/03/10/%E5%BD%A9%E8%99%B9/"/>
+    <id>http://yoursite.com/2017/03/10/彩虹/</id>
+    <published>2017-03-10T14:43:15.000Z</published>
+    <updated>2017-03-10T14:43:56.000Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="样式"><a href="#样式" class="headerlink" title="样式"></a>样式</h1><h2 id="和我在成都的街头走一走"><a href="#和我在成都的街头走一走" class="headerlink" title="和我在成都的街头走一走"></a>和我在成都的街头走一走</h2>]]></content>
-    
-    <summary type="html">
-    
-      &lt;h1 id=&quot;样式&quot;&gt;&lt;a href=&quot;#样式&quot; class=&quot;headerlink&quot; title=&quot;样式&quot;&gt;&lt;/a&gt;样式&lt;/h1&gt;&lt;h2 id=&quot;和我在成都的街头走一走&quot;&gt;&lt;a href=&quot;#和我在成都的街头走一走&quot; class=&quot;headerlink&quot; title=&quot;和我在
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>我就看看好玩嘛</title>
-    <link href="http://yoursite.com/2017/03/10/%E2%80%9C%E6%88%91%E5%B0%B1%E7%9C%8B%E7%9C%8B%E5%A5%BD%E7%8E%A9%E5%98%9B/"/>
-    <id>http://yoursite.com/2017/03/10/“我就看看好玩嘛/</id>
-    <published>2017-03-10T14:22:35.000Z</published>
-    <updated>2017-03-10T14:23:44.000Z</updated>
+    <content type="html"><![CDATA[<h2 id="斯人若彩虹-遇上方知有"><a href="#斯人若彩虹-遇上方知有" class="headerlink" title="斯人若彩虹 遇上方知有"></a>斯人若彩虹 遇上方知有</h2>]]></content>
     
     <summary type="html">
     
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title></title>
-    <link href="http://yoursite.com/2017/03/10/first/"/>
-    <id>http://yoursite.com/2017/03/10/first/</id>
-    <published>2017-03-10T14:07:33.000Z</published>
-    <updated>2017-03-10T14:12:23.000Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="一人我撸码，听歌，饮酒"><a href="#一人我撸码，听歌，饮酒" class="headerlink" title="一人我撸码，听歌，饮酒"></a>一人我撸码，听歌，饮酒</h1>]]></content>
-    
-    <summary type="html">
-    
-      &lt;h1 id=&quot;一人我撸码，听歌，饮酒&quot;&gt;&lt;a href=&quot;#一人我撸码，听歌，饮酒&quot; class=&quot;headerlink&quot; title=&quot;一人我撸码，听歌，饮酒&quot;&gt;&lt;/a&gt;一人我撸码，听歌，饮酒&lt;/h1&gt;
+      &lt;h2 id=&quot;斯人若彩虹-遇上方知有&quot;&gt;&lt;a href=&quot;#斯人若彩虹-遇上方知有&quot; class=&quot;headerlink&quot; title=&quot;斯人若彩虹 遇上方知有&quot;&gt;&lt;/a&gt;斯人若彩虹 遇上方知有&lt;/h2&gt;
     
     </summary>
     
